@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 tao la duc em
 tao rat hien lanh
+=======
+>>>>>>> parent of 85db073... update 1:30 11/2
